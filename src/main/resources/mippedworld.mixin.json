@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "package": "xfacthd.mippedworld.client.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "mippedworld.refmap.json",
+    "mixins": [
+    ],
+    "client": [ "AccessorTextureAtlas", "MixinLevelRenderer", "MixinMinecraft" ],
+    "injectors": {
+        "defaultRequire": 0
+    },
+    "minVersion": "0.8"
+}

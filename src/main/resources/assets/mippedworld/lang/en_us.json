@@ -1,0 +1,10 @@
+{
+    "key.category.mippedworld": "MippedWorld",
+    "key.mippedworld.toggle": "Toggle effect",
+    "key.mippedworld.increment": "Increase mip level",
+    "key.mippedworld.decrement": "Decrease mip level",
+    "msg.mippedworld.activated": "MippedWorld: Activated",
+    "msg.mippedworld.deactivated": "MippedWorld: Deactivated",
+    "msg.mippedworld.incremented": "MippedWorld: Mip level increased to %s, max %s",
+    "msg.mippedworld.decremented": "MippedWorld: Mip level decreased to %s, min %s"
+}
